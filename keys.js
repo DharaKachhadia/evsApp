@@ -1,0 +1,2 @@
+export const STRIPE_PUBLISHABLE_KEY = "pk_test_51KOyP1SFGr0qO0IeutN11sRMhvMxjmJ9fIN62tAtdykYoksC2nuZwftnejodzmcJ4C07tWS0gVXmxVKrM8N0VJo900LtZryt7u";
+export const Secret_key = "sk_test_51KOyP1SFGr0qO0IewCSP1tWTG9VVRN7KLlbssB1yF08L3oVP5Ii6HH6B5amsvAkOaiQ7BmJDE9Hp4FKiSQEBgCjN00Fxso1Bds"

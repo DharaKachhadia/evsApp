@@ -648,13 +648,13 @@ const Map = props => {
           z
           showsUserLocation={true}
           showsMyLocationButton={true}>
-          {/* <MapViewDirections
+          <MapViewDirections
     origin={origin1}
     destination={destination}
-     apikey="AIzaSyDcXuwB1cm1zfgEqJmKBw8PRnruOlR086I"
+     apikey="AIzaSyAPxVr83wbDkDHrd9WYDb93J6vQ316_4TA"
     strokeWidth={3}
     strokeColor="orange"
-  /> */}
+  />
           <Marker
             coordinate={{
               latitude: region.latitude,
@@ -717,7 +717,7 @@ const Map = props => {
             });
           }}
           query={{
-            key: 'AIzaSyDcXuwB1cm1zfgEqJmKBw8PRnruOlR086I',
+            key: 'AIzaSyAPxVr83wbDkDHrd9WYDb93J6vQ316_4TA',
             language: 'en',
             components: 'country:ind',
             types: 'establishment',
